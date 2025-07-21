@@ -5,6 +5,8 @@ const port = 3000
 
 
 console.log('Hello World!')
+console.log("ali")
+
 
 
 app.get('/', (req, res) => res.send('Hello World!'))
